@@ -2,5 +2,5 @@
 Project Using Backend
 
 
-## npm i -D nodemon  --> check the index.js file and rerun after any changes
+## npm i -D nodemon  --> when file save it will reload the server automatically
 
