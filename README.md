@@ -18,3 +18,5 @@ password  vaibhav123
 <!-- connection with database imp points -->
 ### to connect db first thing wrap with try catch or promise
 ### use async await
+
+git pull successfull.
